@@ -2,10 +2,6 @@
 
 A collection of small projects and experiments used to learn mobile development with FLUTTER. Each project is self-contained and focuses on a specific concept, widget, or platform feature.
 
-## Location
-This README lives at:
-`/c:/Users/matth/Desktop/Mobile Development/FLUTTER/README.md`
-
 ## Contents
 - projects/ — individual FLUTTER apps and experiments
 - assets/ — shared images, fonts, and other resources
